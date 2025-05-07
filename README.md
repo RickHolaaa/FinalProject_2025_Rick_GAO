@@ -1,1 +1,1 @@
-# Kuaishou-System-Recommender
+# FinalProject - 2025 - Rick GAO
